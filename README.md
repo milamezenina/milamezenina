@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @milamezenina
+- 👀 I’m interested in Game Python, PyGame
+- 🌱 I'm currently learning the Python programming language
+- 💞️ I work alone with my dad
+- 📫 How to contact me: write any comment under any gist
